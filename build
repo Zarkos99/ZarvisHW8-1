@@ -1,0 +1,4 @@
+#!/bin/bash
+#This is a build bash script for compiling the control_GPIO.cpp C++ program
+
+g++ control_GPIO.cpp -o control_GPIO
