@@ -2,3 +2,4 @@
 #This is a build bash script for compiling the control_GPIO.cpp C++ program
 
 g++ control_GPIO.cpp -o control_GPIO
+config-pin p8.16 gpio_pu
